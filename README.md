@@ -17,8 +17,6 @@ Previously **Senior Software Engineer @ Let's Do This** (YC S18), the marketplac
 | [traceroute](https://github.com/NathanBhanji/traceroute) | Desktop traceroute app — live hop streaming, waterfall RTT, SQLite history |
 | [isp-observability](https://github.com/NathanBhanji/isp-observability) | ISP performance dashboard — ICMP ping, traceroute, speedtest, RIPE Atlas comparison |
 | [mongodb-casbin-adapter](https://github.com/NathanBhanji/mongodb-casbin-adapter) | MongoDB adapter for node-casbin |
-| [real-debrid-ts](https://github.com/NathanBhanji/real-debrid-ts) | TypeScript SDK for the Real-Debrid API |
-| [distroless-mongo](https://github.com/NathanBhanji/distroless-mongo) | Distroless container images for MongoDB |
 | [homebrew-tap](https://github.com/NathanBhanji/homebrew-tap) | Homebrew formulae for the above |
 
 ## Stack & interests
