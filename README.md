@@ -4,7 +4,7 @@ Software engineer based in London, England. I build full-stack products and the 
 
 ## What I'm doing
 
-**Software Engineer @ [Tano](https://tano.ai)** — the AI-native creator-marketing partner. I work across the platform that pairs a squad of AI agents with a senior in-house team to run influencer campaigns end-to-end: sourcing, seeding & affiliates, organic content and creator ads. Day to day that means LangGraph agents, a NestJS + Prisma/Postgres API, a Next.js app, Go workers, and the observability and reliability tooling needed to trust agents running unsupervised in production.
+**Founding Engineer @ [Tano](https://tano.ai)** — the AI-native creator-marketing partner. I work across the platform that pairs a squad of AI agents with a senior in-house team to run influencer campaigns end-to-end: sourcing, seeding & affiliates, organic content and creator ads. Day to day that means LangGraph agents, a NestJS + Prisma/Postgres API, a Next.js app, Go workers, and the observability and reliability tooling needed to trust agents running unsupervised in production.
 
 Previously **Senior Software Engineer @ Let's Do This** (YC S18), the marketplace for endurance events.
 
